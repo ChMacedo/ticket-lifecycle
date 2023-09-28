@@ -21,7 +21,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Intake
 - Assignment and Communication
 - Working the Issue
-- Resolution
 
 <h2>Lifecycle Stages</h2>
 
@@ -31,7 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <p>
 Intake <br />
-First lets make some tickets through the end user portal  <br />
+First lets make an example tickets through the end user portal, so we can follow its lifecycle.  <br />
 </p>
 <br />
 
