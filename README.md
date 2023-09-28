@@ -6,10 +6,6 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -30,25 +26,48 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="819" alt="Screen Shot 2023-09-27 at 10 15 08 AM" src="https://github.com/ChMacedo/ticket-lifecycle/assets/103891128/c60cdc10-747a-4408-b970-17467b8be3f6">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Intake <br />
+First lets make some tickets through the end user portal  <br />
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="689" alt="Screen Shot 2023-09-27 at 10 19 03 AM" src="https://github.com/ChMacedo/ticket-lifecycle/assets/103891128/0d16e429-be6f-4786-aeb2-f5584699f21f">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here is an example ticket made by Karen.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="836" alt="Screen Shot 2023-09-27 at 10 43 28 AM" src="https://github.com/ChMacedo/ticket-lifecycle/assets/103891128/2869a199-afd9-40a8-bdee-f610c6c14a56">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Logining in from Jane Doe's account we can see the ticket Karen just made as well some other tickets that were made.
+</p>
+<br />
+
+<p>
+<img width="955" alt="Screen Shot 2023-09-27 at 11 11 01 AM" src="https://github.com/ChMacedo/ticket-lifecycle/assets/103891128/1e30bf63-5313-465b-b7ac-71facb84837e">
+
+</p>
+<p>
+Assignment and Communication. <br />
+Jane will proceed to assgin the tickets to the proper SLA, agent, and department.  <br />
+Also she will update the end user about progress made solving the ticket.
+</p>
+<br />
+
+<p>
+<img width="955" alt="Screen Shot 2023-09-27 at 11 13 29 AM" src="https://github.com/ChMacedo/ticket-lifecycle/assets/103891128/9bb64fd4-80e8-46bf-aec3-6d8613c1e747">
+</p>
+<p>
+Working the Issue. <br />
+In this scenario a coworker of Jane, Jerry, from the system engeneering department solved the issue. Now Jane can let the end user know that the problem has been resolved and close the ticket.
 </p>
 <br />
